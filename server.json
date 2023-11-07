@@ -1,0 +1,83 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Iniciando com React",
+          "lessons": [
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "x37bKo6Hgok",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            { "id": "0Q-5mrXmuZ4", "title": "Fundamentos", "duration": "10:08" }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Avançando com React",
+          "lessons": [
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            {
+              "id": "0Q-5mrXmuZ4",
+              "title": "Fundamentos",
+              "duration": "10:08"
+            },
+            { "id": "0Q-5mrXmuZ4", "title": "Fundamentos", "duration": "10:08" }
+          ]
+        }
+      ]
+    }
+  ]
+}
